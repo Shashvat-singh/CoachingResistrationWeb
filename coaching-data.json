@@ -1,0 +1,28 @@
+{
+  "choach": [
+    {
+      "name": "GRS",
+      "course": "IIT Foundation",
+      "address": "durgakund,varamnasi",
+      "website": "grs@test.com",
+      "fees": "80000",
+      "id": 1
+    },
+    {
+      "name": "Prime",
+      "course": "IIT Foundation",
+      "address": "samneghat,varanasi",
+      "website": "prime.com",
+      "fees": "14000",
+      "id": 2
+    },
+    {
+      "name": "asasasasasa",
+      "course": "asasasasasas",
+      "address": "asasasasas",
+      "website": "asasasasasa",
+      "fees": "123123",
+      "id": 3
+    }
+  ]
+}
