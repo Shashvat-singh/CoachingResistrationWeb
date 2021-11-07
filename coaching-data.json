@@ -17,12 +17,26 @@
       "id": 2
     },
     {
-      "name": "asasasasasa",
-      "course": "asasasasasas",
-      "address": "asasasasas",
-      "website": "asasasasasa",
-      "fees": "123123",
+      "name": "RPM",
+      "course": "CBSE Board",
+      "address": "Samaneghat,Varanasi",
+      "website": "rpm@test.com",
+      "fees": "12000",
       "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "shashvat",
+      "email": "shashvat@test.com",
+      "pass": "1234",
+      "id": 1
+    },
+    {
+      "name": "shanu",
+      "email": "shanu@test.com",
+      "pass": "456",
+      "id": 2
     }
   ]
 }

@@ -6,6 +6,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class ApiService {
   url = "http://localhost:3000/choach"
+  resUrl = "http://localhost:3000/users"
 
   constructor(private http: HttpClient) { }
 
@@ -26,6 +27,9 @@ export class ApiService {
   }
   putForm(id: any, data: any) {
     return this.http.put(`${this.url}/${id}`, data)
+  }
+  resiForm(data:any){
+    return this.http.post(this.resUrl,data)
   }
 
 }

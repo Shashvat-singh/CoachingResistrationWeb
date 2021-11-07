@@ -16,16 +16,16 @@ const routes: Routes = [
     component:UpdateCoachingComponent
   },
   {
-    path:"list",
-    component:ListOfCoachingComponent
-  },
-  {
     path:"login",
     component:LoginComponent
   },
   {
     path:"resister",
     component:ResisterComponent
+  },
+  {
+    path:"",
+    component:ListOfCoachingComponent
   }
 
 ];
